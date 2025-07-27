@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LangChain Core
 langchain
 langchain-core
@@ -28,4 +29,36 @@ python-dotenv
 
 # Machine Learning Utilities
 numpy
+=======
+# LangChain Core
+langchain
+langchain-core
+ipykernel
+langchain-community
+streamlit
+
+# langchain-ollama
+# Groq Integration
+groq
+langchain-groq
+
+# OpenAI Integration
+# langchain-openai
+# openai
+
+pydantic
+pydantic[email]
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface_hub
+sentence_transformers
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+>>>>>>> 0dad5e3 (first commit)
 scikit-learn
