@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-<<<<<<< HEAD
+
 dependencies = [
     "groq>=0.30.0",
     "huggingface-hub>=0.34.1",
@@ -22,6 +22,4 @@ dependencies = [
     "streamlit>=1.47.1",
     "transformers>=4.54.0",
 ]
-=======
-dependencies = []
->>>>>>> 0dad5e3 (first commit)
+
